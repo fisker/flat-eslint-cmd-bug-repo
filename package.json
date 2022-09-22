@@ -1,0 +1,9 @@
+{
+  "name": "flat-eslint-cmd-bug-repo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.23.1"
+  }
+}
